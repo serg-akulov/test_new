@@ -1,9 +1,12 @@
-@import"_header";
+@import "_header";
 
-body{
+body {
    font-size: 20px;
-   div{
+   div {
       font-size: 10px;
    }
+}
 
+.block {
+   color: brown;
 }
